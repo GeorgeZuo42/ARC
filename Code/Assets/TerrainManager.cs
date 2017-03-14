@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+
+
 public class TerrainManager : MonoBehaviour {
     //材质和高度图
     public Material diffuseMap;
